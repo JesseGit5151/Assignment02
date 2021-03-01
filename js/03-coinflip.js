@@ -1,5 +1,5 @@
 let coinFlip = Math.round(Math.random())
-let choice = prompt("Enter heads or tails");
+let choice;
 
 do {
     choice = prompt("Please enter heads or tails")
